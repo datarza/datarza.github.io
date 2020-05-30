@@ -1,3 +1,3 @@
-# [DevBian.ca](http://devbian.ca/)
+# [DevAmple.com](https://devample.com)
 
-[DevBian.ca](http://devbian.ca/) is a personal portfolio page based on [Freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer) template for [Bootstrap](http://getbootstrap.com/).
+[DevAmple.com](https://devample.com) is a personal portfolio page based on [Freelancer](https://github.com/BlackrockDigital/startbootstrap-freelancer) template for [Bootstrap](http://getbootstrap.com/).
